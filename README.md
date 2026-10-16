@@ -31,7 +31,9 @@ This repository showcases my project work and learning.
 
 ## Interactive Dashboard
 
-The Streamlit dashboard allows users to explore Netflix catalogue patterns using interactive charts and filters.
+The Streamlit dashboard allows users to explore Netflix catalog patterns using interactive charts and filters.<br>
+If the user applied filter doesn't satisfy all the conditions an error message will be displayed by streamlit.<br>
+[Netflix_catalog_dashboard](https://netflix-catalog-insights.streamlit.app/)
 
 ## Project Files
 
@@ -54,4 +56,4 @@ The Streamlit dashboard allows users to explore Netflix catalogue patterns using
 
 ## Dataset
 
-The dashboard uses `cleaned_dataset.csv`. Refer to the website above for the original dataset source.
+The dashboard uses `cleaned_dataset.csv`. Refer to the website above and contact them for the original dataset source.
